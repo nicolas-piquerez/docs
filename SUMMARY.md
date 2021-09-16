@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Swap](README.md)
+* [Contact us](contact-us.md)
 
